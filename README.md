@@ -1,7 +1,7 @@
 # AndrewP_REASinatraExercise
 
 # Hello-World Git
-git clone https://github.com/Azure/nodejs-docs-hello-world.git
+git clone https://github.com/Azure-Samples/nodejs-docs-hello-world.git
 
 # Deploy with Kudu builds (Configure a deployment user)
 az webapp deployment user set --user-name apaton8410 --password Matrix45#@
